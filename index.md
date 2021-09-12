@@ -16,7 +16,7 @@ I am Nafhan Raissa Syandana from Depok
 <br>
 ## More Links
 
-* [GitHub Page with no Jekyll Theme](https://doit.vlsm.org/001.md)
+* [GitHub](https://github.com/nafhansyandana/os212)
 
 <br>
 ## Source Code
