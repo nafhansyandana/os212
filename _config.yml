@@ -1,4 +1,4 @@
-version:     "0018b--03-Aug-2021"
+version:     "0018b--12-Sep-2021"
 copyright:   "2021-2021"
 description:
   This is a
@@ -27,8 +27,8 @@ navbarlinks:
   link:      "https://template.vlsm.org/"
 title:       "GitHub Page Template"
 lang:        "en-US"
-author:      "Nafhan"
-address:     "Box 7, Mawitaan, Bangalla."
+author:      "Nafhan Raissa Syandana"
+address:     "Depok"
 sitemap:     "true"
 markdown:    "kramdown"
 defaults:
