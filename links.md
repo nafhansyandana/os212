@@ -4,18 +4,15 @@ permalink: /LINKS/
 
 # LINKS
 
-1. [One](https://en.wikipedia.org/wiki/1)<br>
-StarBucks ipsum dolor J.CO Do Not!
-McD ipsum dolor Wendy's Burger King.
-KFC urna libero, in purus hana masa, tempor hokben lorem.
+1. [Introduction to Operating System](https://www.youtube.com/watch?v=pVzRTmdd9j0)<br>
+For those of you who are new and want to know more about the operating system, you can listen 
+to the explanation there. OS is used to command and run the device it has, to make it fit as desired.
 
-2. [Two](https://en.wikipedia.org/wiki/2)<br>
-Sweet roll lollipop tootsie roll cheesecake marshmallow macaroon chocolate bar biscuit candy.
-Donut chocolate cake sugar plum icing dragée pie.
-Chocolate marzipan jelly-o soufflé donut pudding apple pie jelly beans.
+2. [What is Github](https://www.youtube.com/watch?v=w3jLJU7DT5E)<br>
+A shared web hosting service for software development projects using the Git version control 
+system and internet hosting services.
 
-3. [Three](https://en.wikipedia.org/wiki/3)<br>
-Liquorice bonbon lemon drops marshmallow.
-Sweet roll gummies gummies jelly tiramisu chocolate fruitcake.
-Jelly chocolate jelly beans marzipan brownie bonbon muffin.
+3. [Basic Understanding of Virtual Machine](https://www.goldenfast.net/blog/virtual-machine-adalah/)<br>
+With a virtual machine, you can run applications, programs, or scripts on these devices 
+virtually as if you were using a different device
 
