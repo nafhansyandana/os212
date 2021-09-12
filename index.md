@@ -9,8 +9,8 @@ I am Nafhan Raissa Syandana from Depok
 <br>
 ## Shortcut
 
-| [HOME]({{ site.baseurl }}/) | [LISTINGS]({{ site.baseurl }}/000.html) |
-| [TIPS]({{ site.baseurl }}/TIPS/) | [TARBALL]({{ site.baseurl }}/template.tar.bz2) | [ZIP File]({{ site.baseurl }}/template.zip) |
+| [HOME]({{ site.baseurl }}/) | [LISTINGS]({{ site.baseurl }}/000.html) | [ZIP File]({{ site.baseurl }}/template.zip) |
+| [TIPS]({{ site.baseurl }}/TIPS/) | [TARBALL]({{ site.baseurl }}/template.tar.bz2) |
 | [GitHub]({{ site.urlgithub }}) | [ABOUT]({{ site.baseurl }}/ABOUT/) |
 
 <br>
