@@ -15,6 +15,7 @@ ZCZC W00  30 L02 ZOOM meetings related
 ZCZC W01 100 L02 ZOOM meetings related
 ZCZC W01  50 L08 AsDos: asking, etc.
 ZCZC W01  40 L02 ZOOM meetings related
+ZCZC W01  20 L22 Quiz
 ZCZC W01  50 L11 Assignment #01
 ZCZC W01  80 L12 Assignment #02
 ZCZC W01  60 L13 Assignment #03
@@ -39,3 +40,15 @@ ZCZC W02  20 L20 Assignment #10
 ZCZC W02  15 L09 Assignment in General (Assignment #11)
 ZCZC W02  10 L09 Assignment in General (Assignment #12)
 ZCZC W02  10 L09 Assignment in General (Assignment #13)
+ZCZC W03 100 L02 ZOOM meetings related
+ZCZC W03  20 L22 Quiz
+ZCZC W03  25 L02 ZOOM meetings related
+ZCZC W03 130 L11 Assignment #01
+ZCZC W03 100 L12 Assignment #02
+ZCZC W03  80 L13 Assignment #03
+ZCZC W03  25 L14 Assignment #04
+ZCZC W03  50 L15 Assignment #05
+ZCZC W03  25 L16 Assignment #06
+ZCZC W03  25 L17 Assignment #07
+ZCZC W03  15 L18 Assignment #08
+ZCZC W03  15 L19 Assignment #09
