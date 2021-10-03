@@ -36,3 +36,15 @@ Every File has a logical location where they are located for storage and retriev
 7. [Filesystem Hierarchy Standard](https://www.linuxjournal.com/content/filesystem-hierarchy-standard)<br>
 A consensus on how directories should be organized and which files should be stored where, so that 
 distributions could have a single reference point from which to work
+
+# WEEK 04
+
+8. [Static and Dynamic Libraries in Linux](https://medium.com/swlh/linux-basics-static-libraries-vs-dynamic-libraries-a7bcf8157779)<br>
+A library is a collection of pre-compiled pieces of code called functions. The library contains common 
+functions and together, they form a package called — a library. For programmers, libraries provide reusable 
+functions, data structures, classes and so forth.
+
+9. [Difference between Global and Local Variable](https://www.guru99.com/local-vs-global-variable.html)<br>
+Variable is a name assign to a storage area that the program can manipulate. A variable type determines the 
+size and layout of the variable’s memory. It also determines the range of values which need to be stored 
+inside that memory and nature of operations that can be applied to that variable
