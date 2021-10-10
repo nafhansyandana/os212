@@ -48,3 +48,13 @@ functions, data structures, classes and so forth.
 Variable is a name assign to a storage area that the program can manipulate. A variable type determines the 
 size and layout of the variable’s memory. It also determines the range of values which need to be stored 
 inside that memory and nature of operations that can be applied to that variable
+
+# WEEK 05
+
+10. [Virtual Memory - Oerating System](https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm)<br>
+A computer can address more memory than the amount physically installed on the system. This extra memory is 
+actually called virtual memory and it is a section of a hard disk that's set up to emulate the computer's RAM
+
+11. [Memory Allocation Management](https://www.tutorialspoint.com/operating_system/os_memory_management.htm)<br>
+Memory management is the functionality of an operating system which handles or manages primary memory and moves 
+processes back and forth between main memory and disk during execution
