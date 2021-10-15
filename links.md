@@ -58,3 +58,15 @@ actually called virtual memory and it is a section of a hard disk that's set up 
 11. [Memory Allocation Management](https://www.tutorialspoint.com/operating_system/os_memory_management.htm)<br>
 Memory management is the functionality of an operating system which handles or manages primary memory and moves 
 processes back and forth between main memory and disk during execution
+
+# WEEK 05
+
+12. [Concurrency in Operating System](https://eng.libretexts.org/Courses/Delta_College/Operating_System%3A_The_Basics/05%3A_Process_Synchronization/5.1%3A_Introduction_to_Concurrency)<br>
+Concurrency is the execution of a set of multiple instruction sequences at the same time. This occurs when 
+there are several process threads running in parallel. These threads communicate with the other threads/processes 
+through a concept of shared memory or through message passing
+
+13. [Get to Know Threads](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/4_Threads.html)<br>
+A thread is a basic unit of CPU utilization, consisting of a program counter, a stack, and a set of registers, 
+( and a thread ID. ). Traditional ( heavyweight ) processes have a single thread of control - There is one 
+program counter, and one sequence of instructions that can be carried out at any given time
