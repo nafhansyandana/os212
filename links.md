@@ -59,7 +59,7 @@ actually called virtual memory and it is a section of a hard disk that's set up 
 Memory management is the functionality of an operating system which handles or manages primary memory and moves 
 processes back and forth between main memory and disk during execution
 
-# WEEK 05
+# WEEK 06
 
 12. [Concurrency in Operating System](https://eng.libretexts.org/Courses/Delta_College/Operating_System%3A_The_Basics/05%3A_Process_Synchronization/5.1%3A_Introduction_to_Concurrency)<br>
 Concurrency is the execution of a set of multiple instruction sequences at the same time. This occurs when 
@@ -70,3 +70,14 @@ through a concept of shared memory or through message passing
 A thread is a basic unit of CPU utilization, consisting of a program counter, a stack, and a set of registers, 
 ( and a thread ID. ). Traditional ( heavyweight ) processes have a single thread of control - There is one 
 program counter, and one sequence of instructions that can be carried out at any given time
+
+# WEEK 07
+14. [Synchronization Process Operating System](https://www.guru99.com/process-synchronization.html)<br>
+Process Synchronization is the task of coordinating the execution of processes in a way that no two processes 
+can have access to the same shared data and resources. This can lead to the inconsistency of shared data. So 
+the change made by one process not necessarily reflected when other processes accessed the same shared data.
+
+15. [Introduction to Semaphores](https://www.studytonight.com/operating-system/introduction-to-semaphores)<br>
+it is basically a synchronizing tool and is accessed only through two low standard atomic operations, wait and 
+signal designated by P(S) and V(S) respectively. In very simple words, the semaphore is a variable that can 
+hold only a non-negative Integer value, shared between all the threads, with operations wait and signal
