@@ -81,3 +81,15 @@ the change made by one process not necessarily reflected when other processes ac
 it is basically a synchronizing tool and is accessed only through two low standard atomic operations, wait and 
 signal designated by P(S) and V(S) respectively. In very simple words, the semaphore is a variable that can 
 hold only a non-negative Integer value, shared between all the threads, with operations wait and signal
+
+# WEEK 08
+16. [Process Scheduling Operating System](https://www.tutorialspoint.com/operating_system/os_process_scheduling.htm)<br>
+The process scheduling is the activity of the process manager that handles the removal of the running process
+from the CPU and the selection of another process on the basis of a particular strategy. Process scheduling 
+is an essential part of a Multiprogramming operating systems.
+
+16. [Process State Models in Operating System](https://slaystudy.com/process-state-models-in-operating-system/)<br>
+When a process executes, it goes through a number of states. The current state of the process tells us about 
+the current activity of the process. The state of a process may change due to events like I/O requests, 
+synchronization of processes, process scheduling algorithms, etc. When a process is first created by the OS, 
+it initializes the program control block for the process and the new process enters the system in Not-running state
