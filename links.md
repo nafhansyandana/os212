@@ -88,8 +88,20 @@ The process scheduling is the activity of the process manager that handles the r
 from the CPU and the selection of another process on the basis of a particular strategy. Process scheduling 
 is an essential part of a Multiprogramming operating systems.
 
-16. [Process State Models in Operating System](https://slaystudy.com/process-state-models-in-operating-system/)<br>
+17. [Process State Models in Operating System](https://slaystudy.com/process-state-models-in-operating-system/)<br>
 When a process executes, it goes through a number of states. The current state of the process tells us about 
 the current activity of the process. The state of a process may change due to events like I/O requests, 
 synchronization of processes, process scheduling algorithms, etc. When a process is first created by the OS, 
 it initializes the program control block for the process and the new process enters the system in Not-running state
+
+# WEEK 09
+18. [Difference between Firmware and Operating System](https://www.geeksforgeeks.org/difference-between-firmware-and-operating-system/)<br>
+Firmware is a piece of programming code embedded in a particular hardware. It is a modified version of the software.
+Firmware is equivalent to unmodified or fixed code. Operating System It is system software that operates as the 
+foundation layer on a computer. It acts as the interface between the hardware and the end-user of the computing 
+devices.
+
+19. [What is a bootloader?](https://www.ionos.com/digitalguide/server/configuration/what-is-a-bootloader/)<br> 
+It is a special operating system software that loads into the working memory of a computer after start-up.
+For this purpose, immediately after a device starts, a bootloader is generally launched by a bootable medium like 
+a hard drive, a CD/DVD or a USB stick.

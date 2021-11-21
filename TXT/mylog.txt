@@ -105,3 +105,14 @@ ZCZC W08  20 L18 Assignment #08
 ZCZC W08  15 L19 Assignment #09
 ZCZC W08  20 L20 Assignment #10
 ZCZC W08  20 L06 References/Books/Documents/GSGS related.
+ZCZC W09  40 L05 Quiz
+ZCZC W09  50 L11 Assignment #01
+ZCZC W09  30 L12 Assignment #02
+ZCZC W09  40 L13 Assignment #03
+ZCZC W09 100 L02 ZOOM meetings related
+ZCZC W09  20 L06 References/Books/Documents/GSGS related.
+ZCZC W09 400 L14 Assignment #04
+ZCZC W09  25 L15 Assignment #05
+ZCZC W09  15 L17 Assignment #07
+ZCZC W09  15 L18 Assignment #08
+ZCZC W09  15 L19 Assignment #09
